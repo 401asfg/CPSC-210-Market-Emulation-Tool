@@ -1,0 +1,50 @@
+{"vendors": [
+    {
+        "money": 1,
+        "iconDescription": "./data/icons/basicVendorIcon.bmp",
+        "name": "Sam",
+        "inventory": {
+            "maxWeight": 20,
+            "items": [{
+                "price": 1,
+                "name": "Pod",
+                "description": "",
+                "weight": 1,
+                "value": 1
+            }]
+        },
+        "barterPoints": 1
+    },
+    {
+        "money": 1,
+        "iconDescription": "./data/icons/basicVendorIcon.bmp",
+        "name": "Jim",
+        "inventory": {
+            "maxWeight": 1,
+            "items": [{
+                "price": 1,
+                "name": "Rock",
+                "description": "",
+                "weight": 1,
+                "value": 1
+            }]
+        },
+        "barterPoints": 1
+    },
+    {
+        "money": 1,
+        "iconDescription": "./data/icons/basicVendorIcon.bmp",
+        "name": "Lance",
+        "inventory": {
+            "maxWeight": 99,
+            "items": [{
+                "price": 1,
+                "name": "Cable",
+                "description": "",
+                "weight": 1,
+                "value": 1
+            }]
+        },
+        "barterPoints": 1
+    }
+]}

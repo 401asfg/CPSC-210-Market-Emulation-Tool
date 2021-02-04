@@ -1,0 +1,155 @@
+{"vendors": [
+    {
+        "money": 12,
+        "iconDescription": "./data/icons/basicVendorIcon.bmp",
+        "name": "Jimmy",
+        "inventory": {
+            "maxWeight": 100,
+            "items": []
+        },
+        "barterPoints": 2
+    },
+    {
+        "money": 12,
+        "iconDescription": "./data/icons/rockVendorIcon.bmp",
+        "name": "Sim",
+        "inventory": {
+            "maxWeight": 1000,
+            "items": [
+                {
+                    "price": 1,
+                    "name": "Small Rock",
+                    "description": "Can be skipped.",
+                    "weight": 1,
+                    "value": 1
+                },
+                {
+                    "price": 20,
+                    "name": "Boulder",
+                    "description": "Massive rock!",
+                    "weight": 40,
+                    "value": 20
+                },
+                {
+                    "price": 5,
+                    "name": "Medium Rock",
+                    "description": "Can be carried... maybe.",
+                    "weight": 20,
+                    "value": 5
+                },
+                {
+                    "price": 5,
+                    "name": "Medium Rock",
+                    "description": "Can be carried... maybe.",
+                    "weight": 20,
+                    "value": 5
+                },
+                {
+                    "price": 1,
+                    "name": "Small Rock",
+                    "description": "Can be skipped.",
+                    "weight": 1,
+                    "value": 1
+                },
+                {
+                    "price": 5,
+                    "name": "Medium Rock",
+                    "description": "Can be carried... maybe.",
+                    "weight": 20,
+                    "value": 5
+                },
+                {
+                    "price": 1,
+                    "name": "Small Rock",
+                    "description": "Can be skipped.",
+                    "weight": 1,
+                    "value": 1
+                },
+                {
+                    "price": 20,
+                    "name": "Boulder",
+                    "description": "Massive rock!",
+                    "weight": 40,
+                    "value": 20
+                },
+                {
+                    "price": 20,
+                    "name": "Boulder",
+                    "description": "Massive rock!",
+                    "weight": 40,
+                    "value": 20
+                }
+            ]
+        },
+        "barterPoints": 0
+    },
+    {
+        "money": 32,
+        "iconDescription": "./data/icons/weaponVendorIcon.bmp",
+        "name": "Lance",
+        "inventory": {
+            "maxWeight": 2,
+            "items": [{
+                "price": 5,
+                "name": "Bow",
+                "description": "Standard high tension bow.",
+                "weight": 2,
+                "value": 5
+            }]
+        },
+        "barterPoints": 34
+    },
+    {
+        "money": 2,
+        "iconDescription": "./data/icons/foodVendorIcon.bmp",
+        "name": "Mike",
+        "inventory": {
+            "maxWeight": 12,
+            "items": [
+                {
+                    "price": 5,
+                    "name": "Hamburger",
+                    "description": "1 pounder.",
+                    "weight": 1,
+                    "value": 5
+                },
+                {
+                    "price": 32,
+                    "name": "Book",
+                    "description": "A good read.",
+                    "weight": 5,
+                    "value": 32
+                },
+                {
+                    "price": 23,
+                    "name": "Spaghetti",
+                    "description": "An Italian dish.",
+                    "weight": 2,
+                    "value": 23
+                },
+                {
+                    "price": 12,
+                    "name": "Chocolate",
+                    "description": "A product of coco beans",
+                    "weight": 1,
+                    "value": 12
+                },
+                {
+                    "price": 5,
+                    "name": "Apple",
+                    "description": "A regular apple.",
+                    "weight": 1,
+                    "value": 5
+                },
+                {
+                    "price": 3,
+                    "name": "Ice Cream",
+                    "description": "Good on a summer's day.",
+                    "weight": 1,
+                    "value": 3
+                }
+            ]
+        },
+        "barterPoints": 3
+    }
+]}

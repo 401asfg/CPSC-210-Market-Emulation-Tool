@@ -1,0 +1,203 @@
+{"vendors": [
+    {
+        "money": 20,
+        "iconDescription": "./data/icons/weaponVendorIcon.bmp",
+        "name": "Owen",
+        "inventory": {
+            "maxWeight": 100,
+            "items": [
+                {
+                    "price": 5,
+                    "name": "Sword",
+                    "description": "A standard weapon.",
+                    "weight": 5,
+                    "value": 5
+                },
+                {
+                    "price": 5,
+                    "name": "Sword",
+                    "description": "A standard weapon.",
+                    "weight": 5,
+                    "value": 5
+                },
+                {
+                    "price": 5,
+                    "name": "Bow",
+                    "description": "Standard high tension bow.",
+                    "weight": 2,
+                    "value": 5
+                },
+                {
+                    "price": 10,
+                    "name": "Rifle",
+                    "description": "Standard M1 Grand, reliable.",
+                    "weight": 3,
+                    "value": 10
+                },
+                {
+                    "price": 1,
+                    "name": "Brick",
+                    "description": "A standard weapon.",
+                    "weight": 7,
+                    "value": 1
+                },
+                {
+                    "price": 2,
+                    "name": "Pen",
+                    "description": "Mightier than the sword.",
+                    "weight": 1,
+                    "value": 2
+                },
+                {
+                    "price": 1,
+                    "name": "Lighter",
+                    "description": "Comes with plenty of fuel.",
+                    "weight": 1,
+                    "value": 1
+                },
+                {
+                    "price": 5,
+                    "name": "Wet Stone",
+                    "description": "Good for keeping sharp.",
+                    "weight": 5,
+                    "value": 5
+                },
+                {
+                    "price": 20,
+                    "name": "Light Armor",
+                    "description": "Leather breast plate.",
+                    "weight": 15,
+                    "value": 20
+                }
+            ]
+        },
+        "barterPoints": 5
+    },
+    {
+        "money": 100,
+        "iconDescription": "./data/icons/mediaVendorIcon.bmp",
+        "name": "Jackson",
+        "inventory": {
+            "maxWeight": 30,
+            "items": [
+                {
+                    "price": 20,
+                    "name": "Sims 3",
+                    "description": "Another simulation game.",
+                    "weight": 1,
+                    "value": 20
+                },
+                {
+                    "price": 1,
+                    "name": "Fallout 76",
+                    "description": "10 lbs of patches...",
+                    "weight": 10,
+                    "value": 1
+                },
+                {
+                    "price": 50,
+                    "name": "Adventures of Food Boy",
+                    "description": "HSM w/ food.",
+                    "weight": 2,
+                    "value": 50
+                },
+                {
+                    "price": 30,
+                    "name": "Blade Runner",
+                    "description": "Noir Sci-Fi movie.",
+                    "weight": 3,
+                    "value": 30
+                },
+                {
+                    "price": 25,
+                    "name": "Dracula",
+                    "description": "Could be a book or a movie.",
+                    "weight": 7,
+                    "value": 25
+                },
+                {
+                    "price": 25,
+                    "name": "Dracula",
+                    "description": "Could be a book or a movie.",
+                    "weight": 7,
+                    "value": 25
+                }
+            ]
+        },
+        "barterPoints": 50
+    },
+    {
+        "money": 10,
+        "iconDescription": "./data/icons/rockVendorIcon.bmp",
+        "name": "Mike",
+        "inventory": {
+            "maxWeight": 1000,
+            "items": [
+                {
+                    "price": 1,
+                    "name": "Small Rock",
+                    "description": "Can be skipped.",
+                    "weight": 1,
+                    "value": 1
+                },
+                {
+                    "price": 20,
+                    "name": "Boulder",
+                    "description": "Massive rock!",
+                    "weight": 40,
+                    "value": 20
+                },
+                {
+                    "price": 5,
+                    "name": "Medium Rock",
+                    "description": "Can be carried... maybe.",
+                    "weight": 20,
+                    "value": 5
+                },
+                {
+                    "price": 5,
+                    "name": "Medium Rock",
+                    "description": "Can be carried... maybe.",
+                    "weight": 20,
+                    "value": 5
+                },
+                {
+                    "price": 1,
+                    "name": "Small Rock",
+                    "description": "Can be skipped.",
+                    "weight": 1,
+                    "value": 1
+                },
+                {
+                    "price": 5,
+                    "name": "Medium Rock",
+                    "description": "Can be carried... maybe.",
+                    "weight": 20,
+                    "value": 5
+                },
+                {
+                    "price": 1,
+                    "name": "Small Rock",
+                    "description": "Can be skipped.",
+                    "weight": 1,
+                    "value": 1
+                },
+                {
+                    "price": 20,
+                    "name": "Boulder",
+                    "description": "Massive rock!",
+                    "weight": 40,
+                    "value": 20
+                },
+                {
+                    "price": 20,
+                    "name": "Boulder",
+                    "description": "Massive rock!",
+                    "weight": 40,
+                    "value": 20
+                }
+            ]
+        },
+        "barterPoints": 50
+    }
+]}
